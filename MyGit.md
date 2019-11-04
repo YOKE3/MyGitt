@@ -5,7 +5,7 @@ cd /d/MyGit/    //文件路径
 
  git config --global user.name "YOKE3"
 
-git config --global user.email "742215969@qq.com"
+git config --global user.email "7422159..@qq.com"
 。。。
 。。。
 。。
